@@ -1,4 +1,4 @@
-package ee.urgas.signingserver
+package ee.urgas.verifyingserver
 
 import mu.KotlinLogging
 import org.springframework.web.bind.annotation.*
